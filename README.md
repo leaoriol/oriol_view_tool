@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Basic instructions:
+```ruby
+  OriolViewTool::Renderer.copyright "Lea Oriol", "All rights reserved"
+```
 
 ## Development
 
